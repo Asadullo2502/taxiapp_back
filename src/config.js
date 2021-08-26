@@ -1,9 +1,8 @@
 const pgConfig = {
-   user: 'postgres',
-   password: 'fariks_online_2002',
-   database: 'taxiapp',
-   host: 'localhost',
-   port: 5432
+   user: 'vjxuaesh',
+   password: 'DokbArpAcgB--Ks1UMJ_4XsN3-blfR-7',
+   database: 'vjxuaesh',
+   host: 'chunee.db.elephantsql.com'
 }
 
 module.exports = {
